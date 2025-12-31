@@ -1,0 +1,11 @@
+ * Serving Flask app 'blokchain'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.4:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [13/Oct/2025 18:31:06] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [13/Oct/2025 18:31:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+127.0.0.1 - - [13/Oct/2025 18:31:14] "GET /explorer HTTP/1.1" 200 -
+127.0.0.1 - - [13/Oct/2025 18:31:49] "GET /blockchain HTTP/1.1" 200 -
